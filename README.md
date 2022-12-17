@@ -1,9 +1,10 @@
-			# Python_Projects
+								# Python_Projects
+								
 
 #Automate Microsoft Word is a simple program that helps autocomplete the desired fields for a larger number of files.
 
+#GPU_cards file is an inventory that has a GUI made with Tkinter and a MySql database. It is work in progress, and so far in the interface are available and working the following buttons and fields:
 
-# GPU_cards file is an inventory that has a GUI made with Tkinter and a MySql database. It is work in progress, and so far in the interface are available and working the following buttons and fields:
 
 Fields - ID, manufacturer, model, memory(GB), power consumption(W), price(EUR). All of these fields are related with the MySql database.
 
