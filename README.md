@@ -15,3 +15,11 @@ Buttons - Insert into GPU list (an insert button that requires all of the
 	- Search GPU list by memory( it displays in a new windows the GPUs according to memory)
 	- Search GPU list by power consumption ( it displays in a new windows the GPU according to that power consumption)
 	- Search GPU list by price( it displays in a new windows the GPU according to that respective price)
+
+
+
+
+
+
+
+#Marketplace is a project that i am building for my Python course graduation. It is made with Flask framework. It is still WIP. Working links are /register and /login. I got my help from https://www.youtube.com/@jamalbugti9957    and    Codemy.com youtube channel. 
