@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Python Projects\Python_Projects\Marketplace\myvenv
+set VIRTUAL_ENV=C:\Users\Remus\Desktop\IT Projects\Projects\MarketPlace Projects\Market_Place_Code_Academy_Try\myvenv
 
 if not defined PROMPT set PROMPT=$P$G
 

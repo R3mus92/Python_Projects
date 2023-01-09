@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Python Projects\Python_Projects\Marketplace\myvenv"
+VIRTUAL_ENV="C:\Users\Remus\Desktop\IT Projects\Projects\MarketPlace Projects\Market_Place_Code_Academy_Try\myvenv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
