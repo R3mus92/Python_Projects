@@ -22,4 +22,4 @@ Buttons - Insert into GPU list (an insert button that requires all of the
 
 
 
-#Marketplace is a project that i am building for my Python course graduation. It is made with Flask framework. It is still WIP. Working links are /register and /login. I got my help from https://www.youtube.com/@jamalbugti9957    and    Codemy.com youtube channel. 
+#Marketplace is a project that i am building for my Python course graduation. It is made with Flask framework. It is still WIP. Working links are Home and Products. I got my help from https://www.youtube.com/@jamalbugti9957, Codemy.com youtube channel and freeCodeCamp.org. 
